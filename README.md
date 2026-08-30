@@ -1,10 +1,10 @@
 # Hola, soy Ernesto Manrique 👋
 
-### Software Developer | Backend Focused
+### Full-Stack Developer | Backend Focused
 
-Desarrollador Full-Stack enfocado en el ecosistema TypeScript (NestJS, Node.js, React) y bases de datos relacionales. Apasionado por diseñar arquitecturas modulares, código limpio y soluciones escalables listas para producción.
+Desarrollador Full-Stack con fuerte especialización en el ecosistema backend con NestJS, Node.js y bases de datos relacionales (PostgreSQL / MySQL). Combino interfaces modernas en React con arquitecturas modulares, limpias y altamente escalables en el servidor.
 
-[LinkedIn](www.linkedin.com/in/ernesto-manrique) · [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/ernesto-manrique/) · [Portfolio](#)
 
 ---
 
@@ -24,7 +24,7 @@ Desarrollador Full-Stack enfocado en el ecosistema TypeScript (NestJS, Node.js, 
 |---|---|---|:---:|
 | **GSP Product Catalog & E-Commerce** | Catálogo y plataforma de comercio electrónico para gestión y visualización de productos. | NestJS · React · TypeScript · PostgreSQL | [Código](#) |
 | **Select Farma Landing & Showcase** | Web corporativa y presentación interactiva del ecosistema ERP de farmacias. | React · CSS / Tailwind · JavaScript | [Web](https://group-select.com/) |
-| **ERP Farmacias** | Módulos de reportes de desempeño comercial, inventario y análisis de márgenes de ganancia. | PHP · Laravel · MySQL | — |
+| **Select Farma (ERP)** | Sistema ERP integral para farmacias: gestión de ventas (POS), control de inventario con Kardex y analítica avanzada de rendimiento. | PHP · Laravel · MySQL | — |
 
 #### 🛠️ Aplicaciones Web & Proyectos Frontend
 
