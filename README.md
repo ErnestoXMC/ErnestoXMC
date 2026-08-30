@@ -4,7 +4,7 @@
 
 Desarrollador Full-Stack con fuerte especialización en el ecosistema backend con NestJS, Node.js y bases de datos relacionales (PostgreSQL / MySQL). Combino interfaces modernas en React con arquitecturas modulares, limpias y altamente escalables en el servidor.
 
-[LinkedIn](www.linkedin.com/in/ernesto-manrique/) · [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/ernesto-manrique/) · [Portfolio](#)
 
 ---
 
