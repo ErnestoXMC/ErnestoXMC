@@ -36,3 +36,11 @@ Desarrollador Full-Stack enfocado en el ecosistema TypeScript (NestJS, Node.js, 
 | **Techno & EDM Festival** | Landing promocional interactiva con line-up, galería y venta de pases por días. | HTML5 · CSS3 · JavaScript | [Demo](https://festivalmusica-finall.netlify.app/) |
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=ErnestoXMC&theme=tokyonight)
+
+### 🐍 Mis Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErnestoXMC/ErnestoXMC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErnestoXMC/ErnestoXMC/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ErnestoXMC/ErnestoXMC/output/github-contribution-grid-snake.svg">
+</picture>
