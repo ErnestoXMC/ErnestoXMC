@@ -22,7 +22,7 @@ Desarrollador Full-Stack con fuerte especialización en el ecosistema backend co
 
 | Proyecto | Descripción | Stack | Demo / Repo |
 |---|---|---|:---:|
-| **GSP Product Catalog & E-Commerce** | Catálogo y plataforma de comercio electrónico para gestión y visualización de productos. | NestJS · React · TypeScript · PostgreSQL | [Código](#) |
+| **GSP Product Catalog & E-Commerce** | Catálogo y plataforma de comercio electrónico para gestión y visualización de productos. | NestJS · React · TypeScript · PostgreSQL | [Web](https://gspimport.com/) |
 | **Select Farma Landing & Showcase** | Web corporativa y presentación interactiva del ecosistema ERP de farmacias. | React · CSS / Tailwind · JavaScript | [Web](https://group-select.com/) |
 | **Select Farma (ERP)** | Sistema ERP integral para farmacias: gestión de ventas (POS), control de inventario con Kardex y analítica avanzada de rendimiento. | PHP · Laravel · MySQL | — |
 
